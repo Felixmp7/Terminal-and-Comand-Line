@@ -1,4 +1,6 @@
-### (C1) Conocer cuales binarios ejecutables tengo en mi sistema, se guardan en la carpeta /usr/bin
+# INTRODUCCION A TERMINAL Y LINEA DE COMANDOS
+
+## (C1) Conocer cuales binarios ejecutables tengo en mi sistema, se guardan en la carpeta /usr/bin
 
 *comando*: `ls /usr/bin`
 **Para saber cuantos comandos tengo en total** : `ls /usr/bin | wc -l`
