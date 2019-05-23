@@ -1,9 +1,9 @@
-### Conocer cuales binarios ejecutables tengo en mi sistema, se guardan en la carpeta /usr/bin
+### (C1) Conocer cuales binarios ejecutables tengo en mi sistema, se guardan en la carpeta /usr/bin
 
 *comando*: `ls /usr/bin`
 **Para saber cuantos comandos tengo en total** : `ls /usr/bin | wc -l`
 
-## Árbol de directorios y navegación
+## (C2) Árbol de directorios y navegación
 
 Lo principal que hacemos en la terminal es ejecutar comandos que con el tiempo iremos aprendiendo más de estos.
 
@@ -17,10 +17,33 @@ Recuerda que con … te vas al directorio padre, desde donde estés ubicado, y c
 
 Tip: Para limpiar la pantalla puedes hacer `command+l`, o utilizar el comando `clear`.
 
-*comando*: `ls`= Listar. Flags: -l , -h, -a.
+*comando*: `ls`= Listar. Flags: -l , -h, -a. Si hago `ls ..` puedo listar los archivos del directorio anterior.
 
 *comando* `pwd`= Muestra la ruta actual en la que estoy en mi arbol de directorios.
 
 *comando* `cd` = me permite navegar entre directorios. (Change directory).
+
+## (C3) Manipulación y modificación del árbol de directorios.
+
+Ya vimos cómo navegar dentro del árbol de directorios. En esta clase vamos a ver cómo crearlos y modificarlos.
+
+*comando* `mkdir`: crea un directorio.
+
+*comando* `touch`: crea un archivo. Si no existe el archivo lo va a crear, y si existe le cambia la fecha de modificación
+
+*comando* `mv`: mueve un archivo, te ayuda a modificarlo
+
+*comando* `rm`: elimina archivos o links, no funciona para eliminar un directorio, para esto necesitas un poco más.
+
+*comando* `rm -rf`: elimina un directorio recursivamente
+
+*comando* `man`: es el manual de la terminal, puedes utilizarlo cuando tu quieras para entender qué hace un comando y sus banderas. Con espacio pasas una página, - con b te regresas una página y con q sales del manual.
+
+*comando* `cp`: copia un archivo a otros directorios
+
+*comando* `pushd y popd` : te permiten navegar entre dos directorios fácilmente como con links.
+
+
+
 
 
