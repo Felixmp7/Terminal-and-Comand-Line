@@ -43,7 +43,7 @@ Ya vimos cómo navegar dentro del árbol de directorios. En esta clase vamos a v
 
 *comando* `pushd y popd` : te permiten navegar entre dos directorios fácilmente como con links.
 
-## Herramientas básicas
+## (C4) Herramientas básicas
 
 En esta clase vamos a ver las herramientas que más se utilizan en la línea de comandos.
 
