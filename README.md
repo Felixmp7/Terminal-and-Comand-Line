@@ -17,4 +17,10 @@ Recuerda que con … te vas al directorio padre, desde donde estés ubicado, y c
 
 Tip: Para limpiar la pantalla puedes hacer `command+l`, o utilizar el comando `clear`.
 
+*comando*: `ls`= Listar. Flags: -l , -h, -a.
+
+*comando* `pwd`= Muestra la ruta actual en la que estoy en mi arbol de directorios.
+
+*comando* `cd` = me permite navegar entre directorios. (Change directory).
+
 
