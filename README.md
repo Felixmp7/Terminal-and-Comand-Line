@@ -43,6 +43,18 @@ Ya vimos cómo navegar dentro del árbol de directorios. En esta clase vamos a v
 
 *comando* `pushd y popd` : te permiten navegar entre dos directorios fácilmente como con links.
 
+## Herramientas básicas
+
+En esta clase vamos a ver las herramientas que más se utilizan en la línea de comandos.
+
+*comando* `more`: te da las primeras líneas de lo que hay en el archivo. Para ver la siguiente página hacemos lo mismo que con el man, utilizamos espacio para avanzar de pagin y "b" para ir hacia atrás.
+
+*comando* `cat`: imprime todo el contenido de un archivo en pantalla.
+
+*comando* `tail`: te muestra las últimas 10 líneas de un archivo. Puedes agregarle un número con el - y pedir más que 10 líneas.
+
+Ya no solo navegamos en el árbol de nodos sino que podemos modificar y ver qué hay dentro de los archivos. En la siguiente clase veremos temas más técnicos como variables y algunas formas de utilizar de forma más cómoda la terminal.
+
 
 
 
